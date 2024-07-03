@@ -1,0 +1,18 @@
+# include <iostream>
+#include <string>
+using namespace std;
+int main (){
+    string inputaString;
+  cout << "Enter a string: " ;
+  cin >> inputaString  ;
+  cout << "ASCII values for the characters in the string are: \n" ;
+  for (char s: inputaString ){
+      int asciiValue = static_cast<int>(s);
+ cout << s << "(character)" << asciiValue <<"\n " ;
+    
+  }
+  
+  
+  
+    return 0;
+}
