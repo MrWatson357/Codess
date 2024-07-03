@@ -11,8 +11,5 @@ int main (){
  cout << s << "(character)" << asciiValue <<"\n " ;
     
   }
-  
-  
-  
-    return 0;
+   return 0;
 }
