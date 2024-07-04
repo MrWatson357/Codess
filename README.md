@@ -23,6 +23,3 @@ Next, a for loop is run
 cout << s << "(character)" << asciiValue <<"\n " ;
 
 
-}
-```cpp
-
