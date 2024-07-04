@@ -9,9 +9,6 @@ This C++ program converts a user-provided string into its corresponding ASCII va
    ```bash
    g++ string_to_ascii.cpp -o string_to_ascii
 
- * Run the program:
-   ./string_to_ascii
-```cpp 
 The C++ version works by creating a string variable called inputaString and asking for user input
 ```cpp
 
