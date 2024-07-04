@@ -1,4 +1,4 @@
-# <center><span style="color:yellow">HACKSPLAIN ASSIGNMENT 2</span></center>
+# <center><span style="color:yellow">HACKSPLAIN WORKS</span></center>
 ## <span style="color:blue">C++ Code</span>
 This C++ program converts a user-provided string into its corresponding ASCII values.
 
