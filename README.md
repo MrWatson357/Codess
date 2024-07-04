@@ -20,5 +20,9 @@ Next, a for loop is run
 ```cpp
  for (char s: inputaString ){
       int asciiValue = static_cast<int>(s);
-```
+cout << s << "(character)" << asciiValue <<"\n " ;
+
+
+}
+```cpp
 
