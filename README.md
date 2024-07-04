@@ -12,3 +12,16 @@ This C++ program converts a user-provided string into its corresponding ASCII va
  * Run the program:
    ./string_to_ascii
 ```cpp 
+The C++ version works by creating a string variable called inputaString and asking for user input
+```cpp
+
+  cout << "Enter a string: " ;
+  cin >> inputaString  ;
+  cout << "ASCII values for the characters in the string are: \n" ;
+```
+Next, a for loop is run 
+```cpp
+ for (char s: inputaString ){
+      int asciiValue = static_cast<int>(s);
+```
+
