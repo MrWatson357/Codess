@@ -14,15 +14,5 @@ for (int i = 0; i < text.length(); i++) {
 }
 ```
 
-## <span style="color:violet">Python Variant</span>
-This one is pretty simple. It follows the same logic in the C++ code. Ask the user for input. Store it
-in a variable called text.
-```python
-text = input("Enter a string: ")
-```
 
-We then use the ord() function to print out the ASCII values. Feel free to compare the results in both versions. 
-
-```python 
-print("The ASCII representation of", text[i], "is", ord(text[i]))
 ```
