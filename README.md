@@ -1,5 +1,5 @@
 # <center><span style="color:yellow">HACKSPLAIN ASSIGNMENT 2</span></center>
-## <span style="color:orange">C++ Variant</span>
+## <span style="color:blue">C++ Variant</span>
 The C++ version works by creating a string variable called text and asking for user input
 ```cpp
 cout << "Enter a text string: ";
