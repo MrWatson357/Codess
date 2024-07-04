@@ -5,11 +5,7 @@ This C++ program converts a user-provided string into its corresponding ASCII va
 **Compiling and Running:**
 
 1. Save the code as '(with your preffered name.cpp)'.
-2. Use a C++ compiler to compile the code:
-   ```cpp
-   g++ string_to_ascii.cpp -o string_to_ascii
-
-The C++ version works by creating a string variable called inputaString and asking for user input
+2. The C++ version works by creating a string variable called inputaString and asking for user input
 ```cpp
 
   cout << "Enter a string: " ;
