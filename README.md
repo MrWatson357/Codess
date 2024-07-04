@@ -22,4 +22,5 @@ Next, a for loop is run
       int asciiValue = static_cast<int>(s);
 cout << s << "(character)" << asciiValue <<"\n " ;
 
+```cpp
 
